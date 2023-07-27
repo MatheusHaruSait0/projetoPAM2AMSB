@@ -1,0 +1,15 @@
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.csproj.AssemblyReference.cache
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.AssemblyInfoInputs.cache
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.AssemblyInfo.cs
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.csproj.CoreCompileInputs.cache
+D:\AMS\cshark\AMS_OOP_Heranca\bin\Debug\net6.0\AMS_OOP_Heranca.exe
+D:\AMS\cshark\AMS_OOP_Heranca\bin\Debug\net6.0\AMS_OOP_Heranca.deps.json
+D:\AMS\cshark\AMS_OOP_Heranca\bin\Debug\net6.0\AMS_OOP_Heranca.runtimeconfig.json
+D:\AMS\cshark\AMS_OOP_Heranca\bin\Debug\net6.0\AMS_OOP_Heranca.dll
+D:\AMS\cshark\AMS_OOP_Heranca\bin\Debug\net6.0\AMS_OOP_Heranca.pdb
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.dll
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\refint\AMS_OOP_Heranca.dll
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.pdb
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\AMS_OOP_Heranca.genruntimeconfig.cache
+D:\AMS\cshark\AMS_OOP_Heranca\obj\Debug\net6.0\ref\AMS_OOP_Heranca.dll
